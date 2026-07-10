@@ -1,5 +1,5 @@
 /**
- * Lybor Landgraf Website Logic
+ * Rota do Sucesso Eventos Website Logic
  * Includes Form Validation, Mobile Menu, Sticky Navigation, and Toast Notifications
  */
 
